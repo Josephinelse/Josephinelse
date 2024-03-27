@@ -1,5 +1,5 @@
 # Hello, and welcome to my Github👋
-### My name is Josephine Ewoma, and I'm currently working toward becoming a full stack developer 💻
+### My name is Josephine Ewoma, and I'm currently working towards becoming a full-stack developer 💻
 
 > **A bit about me**
 > 
